@@ -9,7 +9,7 @@
 
 ## 💫 Sobre
 
-Me Chamo Olaurito Neto, programador. Sou fá de tecnologia, ciência, café e programação.
+Me Chamo Olaurito Neto, bacharel em sistemas de informação, programador. Sou fá de tecnologia, ciência, cinema, café e programação.
 
 
 ## 🛠  Tecnologias e Ferramentas
