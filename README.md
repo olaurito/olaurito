@@ -9,10 +9,26 @@
 
 ## 💫 Sobre
 
-Me Chamo Olaurito Neto, bacharel em sistemas de informação, programador. Sou fã de tecnologia, ciência, cinema, café e programação.
+Desenvolvedor PHP com vasta experiência em projetos de diferentes escalas e setores, incluindo websites, landing pages, portais e e-commerces. Ao longo desses anos de carreira, pude colocar em prática minhas habilidades no desenvolvimento e implementação de soluções web robustas e personalizadas, sempre alinhadas às necessidades dos clientes e às melhores práticas do mercado.
+
+Minha atuação envolve desde a análise de requisitos e planejamento de projetos até a entrega de produtos finais otimizados para desempenho e usabilidade.
+
+Expertise em desenvolvimento back-end com PHP, Zend Framework 2, e Laravel, além de manipulação de dados com MySQL e PostgreSQL e integração de APIs RESTful.
+
+Domínio no front-end, aplicando tecnologias como JavaScript, jQuery, HTML5, CSS3, SCSS e frameworks como Bootstrap, garantindo interfaces dinâmicas, responsivas e acessíveis. Além disso, tenho experiência na customização de CMSs como WordPress e Joomla, criando temas e funcionalidades exclusivas.
+
+Também implementei práticas modernas de desenvolvimento, como o uso de controle de versão com GIT (GitHub, GitLab, Bitbucket), automação com Docker, e metodologias ágeis como SCRUM, permitindo entregas eficientes e colaborativas. Meu trabalho inclui a aplicação de boas práticas de codificação, como PSRs, Clean Code, e componentização, assegurando soluções de alta qualidade e manutenção simplificada.
+
+Além disso, busquei continuamente me atualizar em tecnologias emergentes, como Node.js, TypeScript, React, Tailwind, Material UI e Python, expandindo minha versatilidade para atuar em projetos inovadores e multidisciplinares. Acredito no impacto da inovação contínua e busco ambientes que incentivem o aprendizado e a colaboração para transformar ideias em soluções robustas e eficientes.
+
+Estou sempre interessado em receber notícias e atualizações do setor e fico à disposição para que entrem em contato para conexões e colaborações. Sinta-se à vontade para me enviar uma mensagem!
+
+Contato: adm.ndigital@gmail.com
+
+Full Stack | Desenvolvedor | Sistemas Web | Tecnologias | Sites e Sistemas | Desenvolvimento e manutenção | SEO | Desenvolvimento de Interfaces | SASS | Desenvolvimento de sites | Utilizando | Criação | Manutenção | Programação | Sistemas Web | Análise e Desenvolvimento | Web
 
 
-## 🛠  Tecnologias e Ferramentas
+## 🛠  Domínio em Tecnologias e Ferramentas
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
@@ -43,7 +59,7 @@ Me Chamo Olaurito Neto, bacharel em sistemas de informação, programador. Sou f
 ![Sublime Text](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 ![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=000000&logo=PhpStorm&logoColor=FFFFFF&label=)
 
-## Estudo de novas tecnologias para 2023-2025
+## Conhecimento de novas tecnologias - 2025
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" />
